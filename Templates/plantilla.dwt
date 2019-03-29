@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Restaurant</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link rel="stylesheet" type="text/css" href="restaurant.css">
+<body>
+	<section id="contenedor">
+    	<header>
+        			<img src="../portada-banner.jpg" width="100%" height="150"  alt=""/>
+        </header>
+        
+        <main>
+        	 <nav>
+            	<ul id="Menú"> 
+                
+                	<li><a href="../Inicio.html">Inicio</a></li>
+                    <li><a href="../Nuestra Historia.html">Nuestra Historia</a></li>
+                    <li><a href="../Artículos.html">Artículos</a></li>
+                    <li><a href="../Eventos Especiales.html">Eventos Especiales</a></li>
+                    <li><a href="../menú.html ">Menú</a></li>
+                </ul>
+        	 </nav>
+        
+        	<section id="Cuerpodocumento"
+            
+            
+       		<!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+            
+            </section> 
+            
+      
+                   
+        </main>
+        
+        <footer>
+        	<h4>Todos los derechos reservados</h4>
+        </footer>
+        
+     </section>
+</body>
+</html>
